@@ -1,2 +1,2 @@
 # meyerseed
-WebRTC signal server
+WebRTC signal server for a blockchain application
